@@ -1,0 +1,29 @@
+.container{
+    flex-direction: row;
+    display: flex;
+    border: 5px solid yellow;
+}
+
+.home{
+    text-align: center;
+    flex-direction: row;
+    /* margin-left: 450px; */
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+}
+.search{
+    flex-direction: row;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-family: 'Trebuchet MS';
+}
+.logout{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS';
+}
+
